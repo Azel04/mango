@@ -56,7 +56,7 @@ stdenv.mkDerivation {
       pixman
       wayland
       wayland-protocols
-      wlroots_0_19
+      wlroots_0_20
       scenefx
       libGL
       libdrm
